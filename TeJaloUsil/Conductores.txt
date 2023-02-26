@@ -1,0 +1,4 @@
+Benito;Suarez;beniSuarez;benito123;0;40505664;23626;10;[7:00-7:05, Naranjal]/[7:30-7:35, Izaguirre]/[7:00-7:05, Tomás Valle]/;
+Lola;Villanueva;lolaVilla;lolahola;0;49582345;928458211;11;[7:00-7:05, Naranjal]/[9:00-9:05, Honorio Delgado]/[8:00-8:05, Los Jazmines]/[11:00-11:05, Independencia]/;
+Emanuel;Dario;emma;1234;0;85963254;958695425;12;[9:00-9:05, Izaguirre]/[11:00-11:05, UNI]/[16:00-16:05, Los Jazmines]/;
+Lola;Suarez;lolalola;lolaforever;0;2392329;123224;15;[7:00-7:05, Ramón Castilla]/[7:30-7:35, Caquetá]/[8:00-8:05, Quilca]/;
